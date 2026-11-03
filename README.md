@@ -1,65 +1,56 @@
-# Hi, I'm Selena  
+# Selena Cha
 
-Master of Science in Data Analytics (in progress) | Seattle Pacific University  
-Focused on SQL, Python, BI tools, and predictive analytics  
+**Data Analytics | Business Intelligence | Business Operations**
 
----
+Analytics-focused professional with a master's degree in Data Analytics (Dec 2026) and 5+ years of experience in business operations. Experienced in building internal tools, automating workflows, analyzing financial data, and developing data-driven solutions.
 
-## About Me  
-I am a data analytics specialist with a background in design, now dedicated to uncovering insights that drive business decisions. My work spans predictive modeling, streaming analytics, database development, and visualization.  
+## Technical Skills
 
-I am currently seeking **Data Analyst internship opportunities (Summer/Fall 2025)** to apply my skills in SQL, Python, and BI tools while contributing to impactful projects.  
+- **Programming & Data:** Python, SQL, R, PySpark
+- **BI & Visualization:** Power BI, Tableau, IBM Cognos Analytics, Excel
+- **Data Engineering:** Databricks, AWS S3, Delta Lake, SQL Server, SSAS, ETL
+- **Analytics:** Machine Learning, Regression, Classification, Clustering, NLP, Statistical Analysis
+- **Other:** KNIME, Git/GitHub, HTML, Database Design
 
----
+## Featured Projects
 
-## Skills  
-- **Languages**: Python (Pandas, NumPy, Scikit-learn), SQL (T-SQL, SSMS), R  
-- **Analytics**: Data mining, classification, clustering, NLP (text mining), forecasting  
-- **Engineering**: Databricks (PySpark, Structured Streaming), AWS (Kinesis, S3), SSAS Cubes  
-- **Visualization**: Power BI, Tableau, IBM Cognos Analytics  
-- **Databases**: SQL Server, Access, relational modeling, data warehousing  
-- **Other Tools**: Git/GitHub, KNIME, Excel  
+### 1. Credit Risk Analysis & Decision Dashboard
+**Python | Power BI | Logistic Regression**
 
----
+Predictive risk modeling and interactive decision thresholds; evaluated trade-offs between missed risk and review workload.
 
-## Featured Projects  
+[View Project](https://github.com/Selena1224/credit-risk-analytics-dashboard)
 
-### Analyzing User Engagement in Music Streaming  
-- Built an **end-to-end pipeline** using AWS Kinesis, S3, Databricks, and Power BI.  
-- Processed simulated event streams with PySpark and delivered BI dashboards on engagement metrics.  
-- [View Repository](https://github.com/Selena1224/Analyzing_User_Engagement_in_Music_Streaming_with_PySpark_and_Power_BI)  
+### 2. Concrete Mix Decision Intelligence
+**Python | Machine Learning | Streamlit | Plotly**
 
-### Retail Demand Forecasting (IBM Cognos)  
-- Developed interactive dashboards and **AI-driven demand forecasts** for warehouse/sales data.  
-- Highlighted seasonal patterns and inventory optimization strategies.  
-- [View Repository](https://github.com/Selena1224/Retail_Demand_Forecasting_IBM_Cognos)  
+*In development* — Interactive decision-support application for strength prediction, mixture simulation, and material-efficiency optimization.
 
-### Hiring Prediction Analysis (SQL Server + SSAS)  
-- Designed a SQL Server data mart and SSAS cube; connected to Excel/Tableau for analysis.  
-- Predicted hiring outcomes based on education, experience, and background factors.  
-- [View Repository](https://github.com/Selena1224/Hiring_Prediction_Analysis)  
+### 3. Dog Shelter Business Intelligence
+**SQL Server | SSAS | Excel | Data Warehousing**
 
-### Fake News Detection Using Text Mining  
-- Built NLP models with TF-IDF and Random Forest for classification tasks.  
-- Demonstrated effective preprocessing and evaluation with confusion matrices.  
-- [View Repository](https://github.com/Selena1224/Fake_News_Detection_Using_Text_Mining)  
+Developed a SQL data warehouse, analytical cube, and dashboards supporting shelter performance analysis and resource planning.
 
----
+[View Project](https://github.com/Selena1224/BI_Dog_Shelter_Analytics_Project)
 
-## Additional Work  
-- **Wildfire Analysis** – Climate/seasonality dashboard and hotspot identification  
-- **Tacit Knowledge Chatbot** – Research on AI for capturing tacit organizational knowledge  
-- **Cyberattack Case Studies** – Aliquippa Water Authority, MGM & Caesars incidents  
-- **Helpdesk Ticketing Dashboard** – Tableau dashboard for IT support efficiency  
-- **Shelter Dog Adoption Database** – SQL Server design for animal adoption tracking  
+## Professional Experience
 
----
+**Zen Attitude Acupuncture | Apr 2021 – Dec 2026**
 
-## Connect  
-- Email: selena1224222@gmail.com  
-- LinkedIn: [Selena Cha](https://www.linkedin.com/in/selena-cha)  
-- GitHub: [Selena1224](https://github.com/Selena1224)  
+Office & Billing Manager (promoted Dec 2024); previously Medical Billing Specialist & Digital Marketer.
 
----
+- Developed internal portals and automated workflows using HTML and generative AI tools.
+- Conducted reimbursement analysis, investigated financial discrepancies, and improved operational reporting.
+- Managed office operations, staff training, and process improvement initiatives.
 
-*Actively seeking internship opportunities in data analytics and business intelligence for Summer/Fall 2025.*  
+## Education
+
+**Seattle Pacific University** — Master's Degree in Data Analytics | Dec 2026
+
+**Washington State University** — Bachelor's Degree in Business Management | Dec 2023
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/selena-cha/)
+- [GitHub Portfolio](https://github.com/Selena1224)
+- [Email](mailto:selena122422@gmail.com)
