@@ -2,13 +2,13 @@
 
 **Data Analytics | Business Intelligence | Business Operations**
 
+🌐 **[Professional Portfolio Website](https://selena1224.github.io/)**
+
 📄 **[View Resume (PDF)](Resume_Selena_C.pdf)**
 
 💻 **[GitHub Profile](https://github.com/Selena1224)**
 
 🔗 **[LinkedIn](https://www.linkedin.com/in/selena-cha/)**
-
-🌐 **[Professional Portfolio Website](https://selena1224.github.io/)**
 
 ---
 
