@@ -8,6 +8,8 @@
 
 💻 **[GitHub Profile](https://github.com/Selena1224)**
 
+📜 **[Business Owner Letter of Recommendation](Business%20Owner%20Letter%20of%20Recommendation.pdf)**
+
 🔗 **[LinkedIn](https://www.linkedin.com/in/selena-cha/)**
 
 ---
