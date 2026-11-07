@@ -31,6 +31,18 @@
     .by{display:block;font-weight:650;font-size:13px;color:#3b5c6b;margin:0 0 3px}
     .detail{display:block;font-size:13px;color:#647987;line-height:1.55}
     .arrow{font-size:21px;color:#087a70;flex:none}
+
+    .spotlight{padding:25px 26px;border:1px solid #beded6;border-radius:17px;background:#fff;box-shadow:0 7px 30px rgba(15,37,52,.04)}
+    .spotlight-head{display:flex;align-items:flex-start;gap:14px;margin-bottom:15px}
+    .spotlight-icon{display:grid;place-items:center;flex:none;width:45px;height:45px;border-radius:12px;background:#e6f7f2;color:#087a70}
+    .spotlight-icon svg{width:23px;height:23px}
+    .spotlight h2{margin:0 0 3px;font-size:18px}
+    .spotlight .credentials{font-size:12.5px;color:#465e69;line-height:1.5;margin:0}
+    .spotlight .source-type{display:block;margin-top:4px;font-size:11px;font-weight:750;letter-spacing:.3px;color:#087a70;text-transform:uppercase}
+    .spotlight blockquote{border-left:3px solid #89d8c4;margin:0 0 15px;padding:0 0 0 15px;color:#2c4350;font-size:14px;line-height:1.8}
+    .spotlight .source{display:inline-flex;align-items:center;gap:5px;color:#087a70;font-size:12px;font-weight:800;text-decoration:underline;text-underline-offset:3px}
+    .spotlight .source:hover{color:#034a44}
+    @media(max-width:540px){.spotlight{padding:20px 17px}.spotlight-head{gap:11px}.spotlight-icon{width:40px;height:40px}}
     footer{text-align:center;padding:0 20px 32px;color:#667b88;font-size:12px}
     footer a{color:var(--teal);font-weight:700}
     @media(max-width:540px){.hero{padding-top:28px}.card{padding:17px 14px;gap:12px}.ico{flex-basis:41px;width:41px;height:41px}}
@@ -45,8 +57,20 @@
     <p class="intro">Recommendations from people who have worked with me, taught me, and supported my professional development.</p>
   </div></header>
   <main><div class="wrap">
-    <p class="note">Select a recommendation below to read the original letter or view LinkedIn endorsements.</p>
+    <p class="note">Read selected recommendations here, or open the original letters and LinkedIn endorsements.</p>
     <div class="cards">
+      <article class="spotlight" aria-label="Recommendation from Dr. Andy Chen">
+        <div class="spotlight-head">
+          <span class="spotlight-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m2 10 10-6 10 6-10 6-10-6Z"/><path d="M6 12.5V17c4 3 8 3 12 0v-4.5"/><path d="M22 10v7"/></svg></span>
+          <div>
+            <h2>Dr. Andy Chen, PhD</h2>
+            <p class="credentials">Associate Professor of Marketing and Data Analytics · Senior Data Scientist · Seattle Pacific University</p>
+            <span class="source-type">LinkedIn recommendation · Graduate professor</span>
+          </div>
+        </div>
+        <blockquote>“Selena is a highly motivated and dedicated student with strong analytical skills and creativity in applying AI/ML models for solving practical business problems.”</blockquote>
+        <a class="source" href="https://www.linkedin.com/in/selena-cha/details/recommendations/" target="_blank" rel="noopener noreferrer">Read on LinkedIn ↗</a>
+      </article>
       <a class="card" href="./Business%20Owner%20Letter%20of%20Recommendation.pdf" target="_blank" rel="noopener noreferrer" aria-label="Open business owner letter of recommendation PDF">
         <span class="ico" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8Z"/><path d="M14 2v6h6M8 13h8M8 17h7"/><path d="m9 13 2 2 4-4"/></svg></span>
         <span class="content"><h2>Business Owner Recommendation</h2><span class="by">Employer recommendation</span><span class="detail">A professional letter about my work experience and contributions · PDF</span></span>
@@ -62,6 +86,18 @@
         <span class="content"><h2>LinkedIn Recommendations</h2><span class="by">Colleagues and professional connections</span><span class="detail">Read recommendations on my LinkedIn profile · Sign-in may be required</span></span>
         <span class="arrow" aria-hidden="true">↗</span>
       </a>
+      <article class="spotlight" aria-label="Recommendation from Heather Winters">
+        <div class="spotlight-head">
+          <span class="spotlight-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 11.5a7.5 7.5 0 0 1-11 6.6L4 20l1.8-5A7.5 7.5 0 1 1 20 11.5Z"/><path d="m9 11.5 2 2 4-4"/></svg></span>
+          <div>
+            <h2>Heather Winters</h2>
+            <p class="credentials">Claims Specialist · Former Direct Manager</p>
+            <span class="source-type">LinkedIn recommendation · Professional supervisor</span>
+          </div>
+        </div>
+        <blockquote>“Selena is the rare teammate who brings both sharp technical insight and deep empathy to every project she touches.”</blockquote>
+        <a class="source" href="https://www.linkedin.com/in/selena-cha/details/recommendations/" target="_blank" rel="noopener noreferrer">Read on LinkedIn ↗</a>
+      </article>
     </div>
   </div></main>
   <footer>© 2026 Selena Cha · <a href="./index.html">Return to Portfolio</a></footer>
