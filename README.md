@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm an analytics-focused professional with a master's degree in Data Analytics (Dec 2026) from Seattle Pacific University and over five years of experience in business operations.
+I'm an analytics-focused professional with a master's degree in Data Analytics (Dec 2026) from Seattle Pacific University and nearly 6 years of experience in business operations.
 
 My experience combines financial and operational analysis, process improvement, automation, and data-driven decision-making. I've developed internal portals, automated tracking systems, and reporting tools to streamline workflows, improve data accuracy, and provide better visibility into business performance.
 
